@@ -1,6 +1,7 @@
 # MentalCounting
 
 <p align="center"><img src="https://mobiosolutions.com/wp-content/uploads/2019/12/Mobio-Android-Banner.png"></p>
+
 ## Credits
 
 Gasteau Louca et [Kylian](https://tenor.com/view/bff-besties-bestfriends-bff-till-the-ends-gif-4989766) Froment
