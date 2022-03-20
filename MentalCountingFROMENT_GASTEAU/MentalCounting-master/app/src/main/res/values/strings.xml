@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Page d'accueil -->
+    <string name="app_name">MentalCounting</string>
+    <string name="welcome">Welcome in the game</string>
+    <string name="go_game">Play the game</string>
+    <string name="go_score">See scores</string>
+
+    <!-- Page de jeu -->
+    <string name="calcul_text" translatable="false"></string>
+    <string name="operation_template" translatable="false">%1$d %2$s %3$d</string>
+    <string name="answer">Answer </string>
+    <string name="good">True</string>
+    <string name="notgood">False</string>
+    <string name="go_menu">Back to menu</string>
+    <string name="validate">Validate</string>
+    <string name="hard">Hard</string>
+    <string name="new_op">New op</string>
+    <string name="bon">Good Job !</string>
+    <string name="faux">It was :</string>
+
+
+
+    <!-- Page des scores -->
+    <string name="clear">Clear scores</string>
+    <string name="opnumber">Number of Operations</string>
+    <string name="percentSuccess">Percentage of Success</string>
+    <string name="lastCalculs">Last calculs</string>
+    <string name="calculList">Calculs List</string>
+</resources>

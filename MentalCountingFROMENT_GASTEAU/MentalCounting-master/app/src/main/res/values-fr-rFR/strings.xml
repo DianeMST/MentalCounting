@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Page d'accueil -->
+    <string name="app_name">Calcul mental</string>
+    <string name="welcome">Bienvenue dans le jeu de calcul mental</string>
+    <string name="go_game">Jouer au jeu</string>
+    <string name="go_score">Voir les scores</string>
+
+    <!-- Page de jeu -->
+    <string name="calcul_text" ></string>
+    <string name="operation_template" translatable="false">%1$d %2$s %3$d</string>
+    <string name="answer">Réponse : </string>
+    <string name="good">Bon</string>
+    <string name="notgood">Faux</string>
+    <string name="go_menu">Retour au menu</string>
+    <string name="validate">Valider</string>
+    <string name="hard">Dur</string>
+    <string name="new_op">Nouvelle op</string>
+    <string name="bon">Bien joué !</string>
+    <string name="faux">C\'était :</string>
+
+
+
+
+
+    <!-- Page des scores -->
+    <string name="clear">Effacer scores</string>
+    <string name="opnumber">Nombres d\'opérations</string>
+    <string name="percentSuccess">Pourcentage de succès</string>
+    <string name="lastCalculs">Derniers Calculs</string>
+    <string name="calculList">Liste des calculs</string>
+</resources>
